@@ -1,7 +1,15 @@
 
-# 优惠购买搬瓦工
+# 为什么选择搬瓦工VPS
 
-搬瓦工VPS相对其它的云服务产商来说，性价比高，使用起来速度快。通过优惠码购买还能再降低最多 %6 的一些费用。目前[搬瓦工官网](https://bwh8.net/aff.php?aff=32874)最低的有 $19.99 / 年，在这基础上使用优惠码可以少一些费用，根据你对配置的需要进行选择服务器，对于个人来说，19刀的服务器就够用了，以下是可以获取优惠码的链接：
+之前购买了不同商家的云服务器，有阿里云的VPS，也有腾讯云VPS，还有亚马逊的VPS，最后觉得最好用的还是搬瓦工VPS。
+
+相比较而言性价比高，而且搬瓦工是国外的，你懂的，没有什么审核限制，一般来说，使用搬瓦工搭建一个自己的 VPN 来访问 Google 查询资料，看看文献什么的速度还是很快的。
+
+# 搬瓦工优惠码
+
+很多人不知道，搬[搬瓦工官网](https://www.bwh8.net/aff.php?aff=32874)隐藏了一个彩蛋，就是隐藏了优惠码，这个优惠码可以省掉一些费用，比如一年 19 刀的VPS，使用优惠码的时候只需 18 刀多一点，简直不能再划算了。
+
+点击进入[搬瓦工官网](https://www.bwh8.net/aff.php?aff=32874)进行注册就可以了，注册完之后可以选择以下可以获取优惠码的服务器，如果是个人使用的话，我觉得最便宜的已经很够用了，每个月500G的流量基本用不完的。
 
 | 搬瓦工配置 | 搬瓦工费用 | 优惠链接|
 | ------ | ------ | ------ |
@@ -12,52 +20,47 @@
 | *160G KVM – PROMO* <br> SSD硬盘: 160 GB RAID-10<br>RAM内存: 8 GB<br>CPU处理器: 5x Intel Xeon<br>Transfer流量: 4 TB/mo<br>连接速度: 1 Gigabit<br>Multiple locations| $39.99/月 | [点击进入](https://www.bwh8.net/aff.php?aff=32874&pid=47) |
 | *3200G KVM – PROMO* <br> SSD硬盘: 320 GB RAID-10<br>RAM内存: 16 GB<br>CPU处理器: 6x Intel Xeon<br>Transfer流量: 5 TB/mo<br>连接速度: 1 Gigabit<br>Multiple locations| $79.99/月 | [点击进入](https://www.bwh8.net/aff.php?aff=32874&pid=48) |
 
-进入之后就可以获取优惠码了，选择完之后**不要急着点击 「Add to Cart」**。
 
-这时候就可以获取隐藏的优惠码了，我们对着这个网页：`鼠标右击-->查看网页源代码`。
 
-接着 `Ctrl + F` 搜索 `code` ，这时候你就会看到 `Try this promo code: xxxx`，这里的`xxxx`就是优惠吗，把它复制下来。
+当你进到这个页面的时候呢，别急着点击「Add to Cart」添加到购物车，这里面暗藏着一个优惠码，很多人不知道，使用浏览器查看源代码，
+chrome浏览器的话按F12，然后搜索「code」，你会发现有一个 「Try this promo code: xxxx 」，这个xxxx就是优惠码，你把他复制下来，待会有用。
 
-![搬瓦工vps](http://owx1uvd7t.bkt.clouddn.com/banwagong04.png)
-
+![使用搬瓦工搭建VPN](https://www.wistbean.com/images/vpn4.png)
 
 页面的 Location 就是选择服务器的地址，到时访问谷歌的时候会显示你当前访问的地址。好了，我们点击「Add to Cart」。
 
 接下来，进入结算页面，我们刚才复制的优惠码就派上用场了，将你刚刚复制的优惠码复制进去然后点击 「Validate Code」，看！是不是优惠了！一般人不知道这种操作:
 
-![搬瓦工优惠码](http://owx1uvd7t.bkt.clouddn.com/vpn5.png)
+![使用搬瓦工搭建VPN](https://www.wistbean.com/images/vpn5.png)
 
 接着点击「CheckOut」完成付款即可。付款的时候选择 Alipay 就可以使用支付宝付款。
 
-![搬瓦工支付宝支付](http://owx1uvd7t.bkt.clouddn.com/vpn8.png)
-
-
-
-# 获取搬瓦工服务器的ip，端口，账号密码
+# 连接到搬瓦工
 
 购买完毕后你就拥有一台你自己的服务器了，接着点击Services下的MyServices，可以看到你的服务器：
 
-![搬瓦工搭建ss](http://owx1uvd7t.bkt.clouddn.com/vpn6.png)
+![使用搬瓦工搭建VPN](https://www.wistbean.com/images/vpn6.png)
 
 我们点击「KiwiVM Control Panel」进入管理界面：
 
-![搬瓦工搭建ss](http://owx1uvd7t.bkt.clouddn.com/vpn7.png)
+![使用搬瓦工搭建VPN](https://www.wistbean.com/images/vpn7.png)
 
 可以看到你服务器的信息:
 
-![搬瓦工搭建ss](http://owx1uvd7t.bkt.clouddn.com/vpn9.png)
+![使用搬瓦工搭建VPN](https://www.wistbean.com/images/vpn9.png)
 
-有了<a href="https://bwh1.net/aff.php?aff=32874" target="_blank">搬瓦工</a>服务器的IP地址和端口,我们就可以连接了：
+一般来说，菜单下方有一个 openvpn 的快速安装方式，但是据说很容易被强，所以现在不推荐使用这种方式搭建自己的VPN。
 
-![搬瓦工搭建ss](http://owx1uvd7t.bkt.clouddn.com/pic1.png)
+# 使用搬瓦工搭建shadowsocks
+
+
+有了<a href="https://bwh8.net/aff.php?aff=32874" target="_blank">搬瓦工</a>服务器的IP地址和端口,我们就可以连接了：
+
+![搬瓦工搭建ss](https://www.wistbean.com/images/pic1.png)
 
 账号是root，密码可以在这里获取：
 
-![搬瓦工搭建ss](http://owx1uvd7t.bkt.clouddn.com/pic2.png)
-
-# 使用 SSH 工具连接到搬瓦工服务器
-
-![搬瓦工搭建ss](http://owx1uvd7t.bkt.clouddn.com/pic3.png)
+![搬瓦工搭建ss](https://www.wistbean.com/images/pic2.png)
 
 远程连接工具我一直用的是 [SecureCRT](https://www.vandyke.com/products/securecrt/) , 当然你也可以使用其它的 SSH 工具。
 破解版的SecureCRT可以在百度网盘这里获取：
@@ -65,50 +68,47 @@
 - 链接: https://pan.baidu.com/s/11W4WHjCjmiNw6einQNrcPg
 - 提取码: tyux
 
-# 开始快读搭建ss服务器
+连接到你的搬瓦工服务器之后，接下来几个命令让你快速搭建一个属于自己的ss服务器：
 
-
-## 安装 wget ：
-
+1. 搬瓦工安装 wget
+    ```
     yum install wget
+    ```
+2. 搬瓦工执行安装shadowsocks
+```
+wget –no-check-certificate -O shadowsocks.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh
+```
+3. 搬瓦工获取shadowsocks.sh读取权限
+```
+chmod +x shadowsocks.sh
+```
+4. 设置密码和端口号
+当你输入`./shadowsocks.sh 2>&1 | tee shadowsocks.log`后就可以设置密码和端口号了：
 
-## 执行安装ss：
-
-    wget –no-check-certificate -O shadowsocks.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh
-
-## 获取shadowsocks.sh读取权限
-
-    chmod +x shadowsocks.sh
-
-## 设置ss密码端口和加密方式
-
-当你输入`chmod +x shadowsocks.sh`后就可以设置密码和端口号了：
-![搬瓦工搭建ss](http://owx1uvd7t.bkt.clouddn.com/ss1.png)
+![搬瓦工搭建ss](https://www.wistbean.com/images/ss1.png)
+5. 选择加密方式
 设置完密码和端口号之后，我们选择加密方式，这里选择 7：
-![搬瓦工搭建ss](http://owx1uvd7t.bkt.clouddn.com/ss2.png)
+![搬瓦工搭建ss](https://www.wistbean.com/images/ss2.png)
 接着按任意键进行安装。
-
-## 安装ss完成
-
+6. 安装完成
 等一会之后，就安装完成了，它会给你显示你需要连接vpn的信息：
-
-![搬瓦工搭建ss](http://owx1uvd7t.bkt.clouddn.com/ss3.png)
-
+![搬瓦工搭建ss](https://www.wistbean.com/images/ss3.png)
 可以看到需要连接ss的ip地址，密码，端口，和加密方式。
 
 将这些信息保存起来，那么这时候你就可以使用它们来科学上网啦。
 
-# 使用Shadowsocks
+# 开始使用搬瓦工VPN
+
 
 打开 Shadowsocks 客户端，输入ip地址，密码，端口，和加密方式。接着点击确定，右下角会有个小飞机按钮，右键-->启动代理。
 
-![搬瓦工搭建ss](http://owx1uvd7t.bkt.clouddn.com/ss4.png)
+![搬瓦工搭建ss](https://www.wistbean.com/images/ss4.png)
 
 这时候就可以科学上网了。
 
-访问以下 Youtube 和 Google 试试看，速度还可以的：
-![搬瓦工搭建ss](http://owx1uvd7t.bkt.clouddn.com/ss5.png)
-![搬瓦工搭建ss](http://owx1uvd7t.bkt.clouddn.com/ss6.png)
+不过速度并不是快到飞起来，所以接下来就可以使用 BBR 加速了。
+
+# 搬瓦工开启BBR加速
 
 
 # 使用BBR加速器
@@ -133,13 +133,58 @@
 
 再访问一下 Youtube，1080p 超高清，很顺畅不卡顿！
 
-![搬瓦工搭建ss](http://owh7v964r.bkt.clouddn.com/ss7.png)
+![搬瓦工搭建ss](https://www.wistbean.com/images/ss7.png)
+
+# 关于搬瓦工VPN的使用
+
+下载 Shadowsocks 软件，填上信息就可以访问了，不过iPhone的客户端需要收费的，这时候可以再搭建一个VPN专门用来手机使用连接，具体搭建和使用教程也很简单，可以看这篇文章：[快速搭建一个属于自己的IPsec/L2TP VPN](https://www.wistbean.com/ipsec,l2tp_vpn.html)
+
+# 搬瓦工被墙了怎么办？
+
+时不时有朋友问我搬瓦工被墙了的事，其实按照以上的教程搭建是稳如狗的，只不过不用太高调使用，搭建VPN是用来查询资料，学习的。
+
+## 可能的解决方案
+
+在禁令的情况下，最好的解决方案是彻底清除可能触发禁令的所有服务，并等待一段时间取消禁令。
+
+另外可以换ip，如果您需要用干净的IP替换禁用的IP，有两种选择：
+
+### 选项1
+免费IP替换。允许您每隔10周免费更换一个带有干净IP的黑名单IP。要访问此功能，首先像往常一样登录KiwiVM，然后访问以下隐藏页面（复制+粘贴链接到浏览器的地址栏）：
+
+https://kiwivm.64clouds.com/main-exec.php?mode=blacklistcheck
+
+### 选项2
+手动IP替换（收费）可从以下链接获得：
+https://bwh8.net/ipchange.php
+
+换完ip重新安装即可。
 
 
 # 相关文章
 
-- [购买搬瓦工VPS省钱攻略：获取搬瓦工优惠码](https://www.wistbean.com/banwagong-coupon.html)
-- [使用搬瓦工快速搭建自己的VPN](https://www.wistbean.com/banwagong-vpn.html)
-- [CentOS快速搭建一个属于自己的IPsec/L2TP VPN](https://www.wistbean.com/ipsec,l2tp_vpn.html)
+[搬瓦工搭建VPN](https://www.wistbean.com/categories/%E6%90%AC%E7%93%A6%E5%B7%A5/)
+[搬瓦工选购指南](https://zhuanlan.zhihu.com/p/42683791)
+[使用搬瓦工快速搭建自己的VPN](https://segmentfault.com/a/1190000016143959)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
