@@ -1,4 +1,6 @@
 
+> 原文地址：https://www.wistbean.com/banwagong-ss.html
+
 # 为什么选择搬瓦工VPS
 
 之前购买了不同商家的云服务器，有阿里云的VPS，也有腾讯云VPS，还有亚马逊的VPS，最后觉得最好用的还是搬瓦工VPS。
@@ -13,7 +15,9 @@
 
 | 搬瓦工配置 | 搬瓦工费用 | 优惠链接|
 | ------ | ------ | ------ |
+|*2018 网络星期一 Special V3 * <br>  SSD硬盘: 40 GB RAID-10 <br> RAM内存: 1024 MB <br> CPU处理器: 2x Intel Xeon <br> Transfer流量: 1000 GB/月 <br> 连接速度: 1 Gigabit <br> Multiple locations | $15.99 /半年 | [点击进入](https://www.bwh8.net/aff.php?aff=32874&pid=84) |
 |*10G KVM – PROMO* <br>  SSD硬盘: 10 GB RAID-10 <br> RAM内存: 512 MB <br> CPU处理器: 1x Intel Xeon <br> Transfer流量: 500 GB/月 <br> 连接速度: 1 Gigabit <br> Multiple locations | $19.99/年 | [点击进入](https://www.bwh8.net/aff.php?aff=32874&pid=43) |
+|*2018 黑色星期五 Special V3 CN2 * <br>  SSD硬盘: 20 GB RAID-10 <br> RAM内存: 512 MB <br> CPU处理器: 1x Intel Xeon <br> Transfer流量: 1 TB/月 <br> 连接速度: 1 Gigabit <br> 洛杉矶，CN2路线，使用中国的直线路线，速度加快 | $27.60 /年 | [点击进入](https://www.bwh8.net/aff.php?aff=32874&pid=82) |
 | *20G KVM – PROMO* <br> SSD硬盘: 20 GB RAID-10 <br>RAM内存: 1024 MB <br>CPU处理器: 2x Intel Xeon <br>Transfer流量: 1 TB/mo <br>连接速度: 1 Gigabit <br>Multiple locations| $49.99/年 | [点击进入](https://www.bwh8.net/aff.php?aff=32874&pid=44)|
 | *40G KVM – PROMO* <br> SSD硬盘: 40 GB RAID-10 <br>RAM内存: 2 GB <br>CPU处理器: 3x Intel Xeon <br>Transfer流量: 2 TB/mo <br>连接速度: 1 Gigabit <br>Multiple locations| $99.99/年 | [点击进入](https://www.bwh8.net/aff.php?aff=32874&pid=45) |
 | *80G KVM – PROMO* <br> SSD硬盘: 80 GB RAID-10<br>RAM内存: 4 GB<br>CPU处理器: 4x Intel Xeon<br>Transfer流量: 3 TB/mo<br>连接速度: 1 Gigabit<br>Multiple locations| $19.99/月  | [点击进入](https://www.bwh8.net/aff.php?aff=32874&pid=46) |
@@ -164,27 +168,7 @@ https://bwh8.net/ipchange.php
 # 相关文章
 
 [搬瓦工搭建VPN](https://www.wistbean.com/categories/%E6%90%AC%E7%93%A6%E5%B7%A5/)
-[搬瓦工选购指南](https://zhuanlan.zhihu.com/p/42683791)
-[使用搬瓦工快速搭建自己的VPN](https://segmentfault.com/a/1190000016143959)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[搬瓦工优惠选购指南](https://www.wistbean.com/ipsec,l2tp_vpn.html)
+[使用搬瓦工快速搭建自己的VPN](https://www.wistbean.com/banwagong-vpn.html)
 
 
