@@ -97,8 +97,8 @@ chmod +x shadowsocks.sh
 
 将这些信息保存起来，那么这时候你就可以使用它们来科学上网啦。
 
-# 开始使用搬瓦工VPN
 
+# 使用Shadowsocks
 
 打开 Shadowsocks 客户端，输入ip地址，密码，端口，和加密方式。接着点击确定，右下角会有个小飞机按钮，右键-->启动代理。
 
@@ -106,9 +106,9 @@ chmod +x shadowsocks.sh
 
 这时候就可以科学上网了。
 
-不过速度并不是快到飞起来，所以接下来就可以使用 BBR 加速了。
-
-# 搬瓦工开启BBR加速
+访问以下 Youtube 和 Google 试试看，速度还可以的：
+![搬瓦工搭建ss](https://wistbean.github.io/images/ss5.png)
+![搬瓦工搭建ss](https://wistbean.github.io/images/ss6.png)
 
 
 # 使用BBR加速器
@@ -135,34 +135,9 @@ chmod +x shadowsocks.sh
 
 ![搬瓦工搭建ss](https://wistbean.github.io/images/ss7.png)
 
-# 关于搬瓦工VPN的使用
-
-下载 Shadowsocks 软件，填上信息就可以访问了，不过iPhone的客户端需要收费的，这时候可以再搭建一个VPN专门用来手机使用连接，具体搭建和使用教程也很简单，可以看这篇文章：[快速搭建一个属于自己的IPsec/L2TP VPN](https://wistbean.github.io/ipsec,l2tp_vpn.html)
-
-# 搬瓦工被墙了怎么办？
-
-时不时有朋友问我搬瓦工被墙了的事，其实按照以上的教程搭建是稳如狗的，只不过不用太高调使用，搭建VPN是用来查询资料，学习的。
-
-## 可能的解决方案
-
-在禁令的情况下，最好的解决方案是彻底清除可能触发禁令的所有服务，并等待一段时间取消禁令。
-
-另外可以换ip，如果您需要用干净的IP替换禁用的IP，有两种选择：
-
-### 选项1
-免费IP替换。允许您每隔10周免费更换一个带有干净IP的黑名单IP。要访问此功能，首先像往常一样登录KiwiVM，然后访问以下隐藏页面（复制+粘贴链接到浏览器的地址栏）：
-
-https://kiwivm.64clouds.com/main-exec.php?mode=blacklistcheck
-
-### 选项2
-手动IP替换（收费）可从以下链接获得：
-https://bwh8.net/ipchange.php
-
-换完ip重新安装即可。
-
 
 # 相关文章
 
-[搬瓦工搭建VPN](https://wistbean.github.io/categories/%E6%90%AC%E7%93%A6%E5%B7%A5/)
-[搬瓦工选购指南](https://zhuanlan.zhihu.com/p/42683791)
-[使用搬瓦工快速搭建自己的VPN](https://segmentfault.com/a/1190000016143959)
+- [购买搬瓦工VPS省钱攻略：获取搬瓦工优惠码](https://wistbean.github.io/banwagong-coupon.html)
+- [使用搬瓦工快速搭建自己的VPN](https://wistbean.github.io/banwagong-vpn.html)
+- [CentOS快速搭建一个属于自己的IPsec/L2TP VPN](https://wistbean.github.io/ipsec,l2tp_vpn.html)
