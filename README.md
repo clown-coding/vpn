@@ -86,13 +86,19 @@ chmod +x shadowsocks.sh
 当你输入`./shadowsocks.sh 2>&1 | tee shadowsocks.log`后就可以设置密码和端口号了：
 
 ![搬瓦工搭建ss](https://wistbean.github.io/images/ss1.png)
+
 5. 选择加密方式
 设置完密码和端口号之后，我们选择加密方式，这里选择 7：
+
 ![搬瓦工搭建ss](https://wistbean.github.io/images/ss2.png)
+
 接着按任意键进行安装。
+
 6. 安装完成
 等一会之后，就安装完成了，它会给你显示你需要连接vpn的信息：
+
 ![搬瓦工搭建ss](https://wistbean.github.io/images/ss3.png)
+
 可以看到需要连接ss的ip地址，密码，端口，和加密方式。
 
 将这些信息保存起来，那么这时候你就可以使用它们来科学上网啦。
